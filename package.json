@@ -1,0 +1,8 @@
+{
+  "name": "web-starter-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo yo"
+  }
+}
